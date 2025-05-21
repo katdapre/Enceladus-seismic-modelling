@@ -3,6 +3,8 @@ Collection of scripts used to perform seismic wavefield modelling of Enceladus d
 
 Jupyter notebooks supplied help with building, running, processing, plotting, and interpreting AxiSEM and AxiSEM3D simulations for Enceladus as described in Dapré & Irving 2024, 2025.
 
+Environment .yml files to cover the functions used in these notebooks are included.
+
 Ray-theoretical TauP travel time predictions can be obtained using taupcurveplot.ipynb, tauppath_alldistances.ipynb, improved_tauppathplot.ipynb.
 
 Conversion between 1D model files compatible with AxiSEM (.bm) and TauP (.nd) can be performed using taup-to-axisem.ipynb and axisem-to-taup.ipynb.
